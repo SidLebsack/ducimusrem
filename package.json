@@ -1,0 +1,20 @@
+{
+  "name": "ducimusrem",
+  "version": "1.0.0",
+  "description": "Tweak an eth public key into a series of session keys for Dazaar payments",
+  "main": "index.js",
+  "dependencies": {
+    "eth-checksum": "^1.0.1",
+    "eth-keygen": "^1.0.2",
+    "eth-tweak-key": "^1.0.0",
+    "sha3-wasm": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SidLebsack/ducimusrem.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SidLebsack/ducimusrem.git",
+  "author": "BrentSchaden"
+}
